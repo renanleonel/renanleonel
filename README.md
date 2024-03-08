@@ -4,7 +4,7 @@ front-end developer currently coding with next.js, react, and typescript. addict
 you can find me: <br>
 - creating small repos to test new libs
 - overengineering personal projects
-- starting another farm in stardew valley
+- contributing to open-source repos
 
 or, for more serious conversations, on [linkedin](https://www.linkedin.com/in/renanleonel/). <br>
 <br>
