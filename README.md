@@ -8,4 +8,4 @@ you can find me: <br>
 
 or, for more serious conversations, on [linkedin](https://www.linkedin.com/in/renanleonel/). <br>
 <br>
-i'm writing some articles on my [website](https://renanleonel.com/), on [dev.to](https://dev.to/renao) and [medium](https://medium.com/@renanleonel) as well if you wanna check it out. i also have a bacherlor's degree in computer science, here's my [cv](https://cv-psi-eight.vercel.app/).
+i'm writing some articles on my [website](https://renanleonel.com/), on [dev.to](https://dev.to/renao) and [medium](https://medium.com/@renanleonel) as well if you wanna check it out. i also have a bacherlor's degree in computer science.
