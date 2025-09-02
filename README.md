@@ -1,11 +1,28 @@
-## speak friend and enter 🧙‍♀
+Frontend Software Engineer with 3+ years of experience, holding a **Bachelor's in Computer Science** and a **postgraduate degree in Distributed Software Architecture**.  
 
-front-end developer currently coding with next.js, react, and typescript. addicted to lower-case, dark theme and tailwind css. 
-you can find me: <br>
-- creating small repos to test new libs
-- overengineering personal projects
-- contributing to open-source repos
+I specialize in building high-performance, user-friendly interfaces, with a focus on writing clear, testable code and leveraging modern frontend ecosystems.
 
-or, for more serious conversations, on [linkedin](https://www.linkedin.com/in/renanleonel/). <br>
-<br>
-i'm writing some articles on my [website](https://renanleonel.com/), on [dev.to](https://dev.to/renao) and [medium](https://medium.com/@renanleonel) as well if you wanna check it out. i also have a bacherlor's degree in computer science.
+I also write technical articles on my [website](https://renanleonel.com/), [DEV](https://dev.to/renao), and [Medium](https://medium.com/@renanleonel).  
+
+For professional conversations, connect with me on  [LinkedIn](https://www.linkedin.com/in/renanleonel/).  
+
+##  Skills  
+
+<p>
+ <img src="https://skillicons.dev/icons?i=ts,js,nodejs,py" />
+<p>
+<p>
+ <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind,sass,zustand" />
+<p>
+<p>
+ <img src="https://skillicons.dev/icons?i=jest,vitest,cypress" />
+<p>
+<p>
+ <img src="https://skillicons.dev/icons?i=git,github,githubactions,sentry,md" />
+<p>
+<p>
+ <img src="https://skillicons.dev/icons?i=vercel,aws,heroku" />
+<p>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,vscode,figma,vite,yarn,npm,pnpm,svg,windows" />
+<p>
