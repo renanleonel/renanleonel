@@ -1,26 +1,31 @@
-Frontend Software Engineer with 4 years of experience, holding a **Bachelor's in Computer Science** and a **postgraduate degree in Distributed Software Architecture**.  
+# Renan Leonel
 
-I specialize in building high-performance, user-friendly interfaces, writing clean and testable code, and making the most of modern frontend ecosystems. I also share knowledge through technical articles on my [website](https://renanleonel.com/), [DEV](https://dev.to/renao), and [Medium](https://medium.com/@renanleonel).  
+**Senior Software Engineer** · Frontend platform · Product engineering · AI-assisted development
+Maringá, Brazil · Working remotely
 
-For professional conversations, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/renanleonel/).  
+I'm a software engineer with 4+ years of experience building web products with **React, TypeScript and Next.js**. I like owning things end to end: the architecture, the developer experience around it, and whether it actually moves a product metric. Lately a lot of my work is about making teams faster, through shared libraries, CI, testing standards and AI tooling that fits into how engineers already work.
 
-##  Skills  
+[Portfolio](https://renanleonel.com/) · [LinkedIn](https://www.linkedin.com/in/renanleonel/) · [Email](mailto:renanleonelpro@gmail.com)
+
+## Now
+
+- **Senior Software Engineer at [Skeelo](https://www.linkedin.com/company/skeelo)** (2026-Present)
+
+## Before
+
+- **Frontend Software Engineer at [TRACTIAN](https://www.linkedin.com/company/tractian)** (2024–2026)
+- **Frontend Software Engineer at [PLIN energy](https://www.linkedin.com/company/plinenergia)** (2023–2024)
+
+
+## Stack
 
 <p>
- <img src="https://skillicons.dev/icons?i=ts,js,nodejs,py" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,vite" />
+</p>
 <p>
-<p>
- <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind,sass,zustand" />
-<p>
-<p>
- <img src="https://skillicons.dev/icons?i=jest,vitest,cypress" />
-<p>
-<p>
- <img src="https://skillicons.dev/icons?i=git,github,githubactions,sentry,md" />
-<p>
-<p>
- <img src="https://skillicons.dev/icons?i=vercel,aws,heroku" />
-<p>
-<p>
-<img src="https://skillicons.dev/icons?i=docker,vscode,figma,vite,yarn,npm,pnpm,svg,windows" />
-<p>
+  <img src="https://skillicons.dev/icons?i=vitest,jest,cypress,githubactions,sentry,aws,vercel,docker,figma" />
+</p>
+
+## Background
+
+B.Sc. in Computer Science (UEM) · Postgraduate degree in Distributed Software Architecture (PUC Minas) · C1 Advanced English (Cambridge)
