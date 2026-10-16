@@ -1,6 +1,7 @@
 # Renan Leonel
 
-**Senior Software Engineer** · Frontend platform · Product engineering · AI-assisted development
+**Senior Software Engineer** 
+
 Maringá, Brazil · Working remotely
 
 I'm a software engineer with 4+ years of experience building web products with **React, TypeScript and Next.js**. I like owning things end to end: the architecture, the developer experience around it, and whether it actually moves a product metric. Lately a lot of my work is about making teams faster, through shared libraries, CI, testing standards and AI tooling that fits into how engineers already work.
